@@ -6,5 +6,5 @@
 3. 在搜索框输入 whatsapp
 4. 一般会在第二个出现一个 WhatsApp Messenger 应用。点击获取然后下载安装即可
 
-## Facebook,Twitter
-1. 安装上述步骤搜索，下载安装即可
+## Facebook,Twitter,Instagram
+1. 安装上述步骤搜索`facebook`,`twitter`，`instagram`。然后下载安装即可

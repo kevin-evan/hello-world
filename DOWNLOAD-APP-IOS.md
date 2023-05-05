@@ -1,5 +1,5 @@
 # 海外 App 下载指引（IOS篇）
-注意：不需要科学上网也能下载，但是下载完后，打开使用时需要科学上网的。
+注意：不需要科学上网也能下载，但是下载完后，打开使用时需要科学上网的。如果不了解如何科学上网，请参考：https://github.com/kevin-evan/hello-world/blob/main/README.md
 ## WhatsApp
 1. 打开 AppStore 
 2. 点击左右侧的搜索栏目
